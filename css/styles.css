@@ -1,0 +1,14 @@
+
+.button:hover {
+    background: linear-gradient(orange, red);
+    color: white;
+    transition-duration: 0.4s;
+}
+
+.button {
+    background: linear-gradient(red, orange);
+    border: none;
+    padding: 10px 10px;
+    color: white;
+    transition-duration: 0.4s;
+}
